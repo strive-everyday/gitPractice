@@ -1,2 +1,6 @@
 This is just a test demo
+<<<<<<< Updated upstream
 bug already done
+=======
+Bug Bug Bug
+>>>>>>> Stashed changes
